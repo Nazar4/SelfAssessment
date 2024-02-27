@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components k
-  - Directories u
-  - GRASP h
-  - SOLID e
-  - GoF patterns u
+  - Modularity: 🖐️ used
+  - Components: 🎓 known
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🙋 explained
+  - GoF patterns: 🖐️ used
   - CQS
-  - Leaking abstractions k
-  - Multiparadigm code u
-  - Contract programming u
-  - Platform-agnostic k
-  - Transport-agnostic k
-  - Framework-agnostic k
-  - Code coverage u
-  - Cohesion k
-  - Coupling k
-  - Cyclomatic complexity h
-  - Reliability h
-  - Quality h
-  - Availability h
-  - Flexibility h
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🎓 known
+  - Transport-agnostic: 🎓 known
+  - Framework-agnostic: 🎓 known
+  - Code coverage: 🖐️ used
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer k
-  - Domain-specific language (DSL) h
-  - System vs applied code k
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 🎓 known
   - Multilayer approach
-  - Hexagonal architecture k
-  - Separation of concerns (SoC) h
-  - Metaprogramming u
-  - Inversion of control (IoC) e
-  - Dependency injection (DI) e
-  - Clean architecture k
-  - Domain-driven design (DDD) k
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 👂 heard
+  - Metaprogramming: 🖐️ used
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
-  - Message brocker h
-  - Agent h
+  - Message brocker: 👂 heard
+  - Agent: 👂 heard
   - Service locator
-  - Message Queue (MQ) h
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram h
+  - Entity-relationship diagram: 👂 heard
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems h
-  - High-intensive computing h
-  - Load balancing h
-  - Gateways h
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 👂 heard
+  - Load balancing: 👂 heard
+  - Gateways: 👂 heard
   - On-premises
-  - IaaS h
-  - PaaS h
-  - SaaS h
-  - FaaS clouds h
-  - Serverless h
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
   - Vendor lock-in
-  - Bus factor h
+  - Bus factor: 👂 heard
 - Solution architecture
-  - A software requirements specification (SRS) k
+  - A software requirements specification (SRS): 🎓 known
   - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
-  - Data modelling h
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
-  - Non Functional Requirements (NFR) k
-  - Clouds h
+  - Non Functional Requirements (NFR): 🎓 known
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code h
-  - No-code h
-  - Metric h
-  - Metric abuse h
-  - ACID e
-  - CAP theorem k
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 👂 heard
+  - Metric abuse: 👂 heard
+  - ACID: 🙋 explained
+  - CAP theorem: 🎓 known
   - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
-  - Enterprise strategy h
-  - Integration with subsystems h
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
-  - Enterprise service bus h
+  - Enterprise service bus: 👂 heard
   - Service-oriented architecture
-  - Microservices k
+  - Microservices: 🎓 known
   - Process choreography
-  - Service orchestration h
+  - Service orchestration: 👂 heard
   - Data warehouse
   - Business Intelligence
-  - OLAP h
-  - OLTP h
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
   - Conways Law
-  - Quality assurance h
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
